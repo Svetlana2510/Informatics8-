@@ -1,3 +1,2 @@
-x = 124
-x = 124 - 120
-print(x)
+x=int(input())
+print(x%10)
